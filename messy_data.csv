@@ -1,0 +1,16 @@
+id,name,age,salary,department,join_date
+1,Alice Johnson,28,75000,Engineering,2021-03-15
+2,bob smith,34,,Marketing,2019-07-22
+3,Alice Johnson,28,75000,Engineering,2021-03-15
+4,CHARLIE BROWN,45,92000,engineering,2018-11-01
+5,Diana Prince,,58000,HR,2022-01-10
+6,eve wilson,29,61000,Marketing,2021-08-30
+7,Frank Miller,52,105000,Engineering,2017-05-14
+8,,,45000,HR,2020-03-22
+9,Grace Lee,31,67000,marketing,2021-12-05
+10,Henry Ford,28,75000,Engineering,2021-03-15
+11,bob smith,34,,Marketing,2019-07-22
+12,Iris West,27,54000,HR,2023-02-18
+13,James Kirk,41,88000,ENGINEERING,2019-09-30
+14,Karen Page,33,71000,,2022-06-15
+15,,,, ,

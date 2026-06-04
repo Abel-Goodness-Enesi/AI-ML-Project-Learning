@@ -1,0 +1,11 @@
+id,name,age,salary,department,join_date
+1,Alice Johnson,28.0,75000.0,Engineering,2021-03-15
+2,Bob Smith,34.0,71000.0,Marketing,2019-07-22
+4,Charlie Brown,45.0,92000.0,engineering,2018-11-01
+5,Diana Prince,32.0,58000.0,HR,2022-01-10
+6,Eve Wilson,29.0,61000.0,Marketing,2021-08-30
+7,Frank Miller,52.0,105000.0,Engineering,2017-05-14
+9,Grace Lee,31.0,67000.0,marketing,2021-12-05
+10,Henry Ford,28.0,75000.0,Engineering,2021-03-15
+12,Iris West,27.0,54000.0,HR,2023-02-18
+13,James Kirk,41.0,88000.0,ENGINEERING,2019-09-30
