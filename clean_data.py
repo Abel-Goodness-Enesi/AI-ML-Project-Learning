@@ -1,5 +1,5 @@
 import pandas as pd
-import csv 
+
 
 df = pd.read_csv("messy_data.csv")
 print("Shape:", df.shape)
@@ -10,6 +10,7 @@ df = df.dropna(how="all")
 df = df.drop_duplicates(subset=["name", "age", "salary"])
 
 df["name"] = df["name"].str.strip().str.title()
+df["department"] = df["department"].str.strip().str.title()
 df["department"] = df["department"].replace('Hr', "HR")
 
 df["department"] = df["department"].replace("", pd.NA)
