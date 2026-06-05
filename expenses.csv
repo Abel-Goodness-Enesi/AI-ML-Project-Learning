@@ -1,3 +1,5 @@
 id,date,amount,category,description
-1,2026-06-05,3000.0,food,item 7 jollof rice
 2,2026-06-05,40000.0,accessory,wristwatch
+3,2026-06-05,3500.0,food,jollof rice
+4,2026-06-05,3500.0,food,jollof rice
+5,2026-06-05,3500.0,food,jollof rice
